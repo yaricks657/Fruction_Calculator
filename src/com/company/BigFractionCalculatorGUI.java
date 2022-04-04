@@ -163,8 +163,8 @@ public class BigFractionCalculatorGUI extends JFrame {
         make_buttons(1, 1.0, 3, 5, subtraction_button);
         make_buttons(1, 1.0, 0, 6, clear_button);
         make_buttons(1, 1.0, 1, 6, zero);
-        make_buttons(1, 1.0, 2, 6, answer_button);
-        make_buttons(1, 1.0, 3, 6, adding_button);
+       // make_buttons(1, 1.0, 2, 6, answer_button);
+       // make_buttons(1, 1.0, 3, 6, adding_button);
     }
 
     byte fraction_counter = 0;
