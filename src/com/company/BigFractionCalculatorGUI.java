@@ -147,7 +147,7 @@ public class BigFractionCalculatorGUI extends JFrame {
         /**
          * Other buttons
          */
-        make_buttons(3, 1.0, 0, 2, fruction_button);
+      //  make_buttons(3, 1.0, 0, 2, fruction_button);
         make_buttons(1, 0.2, 3, 2, delete_button);
         make_buttons(1, 1.0, 0, 3, seven);
         make_buttons(1, 1.0, 1, 3, eight);
